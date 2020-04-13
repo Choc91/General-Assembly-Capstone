@@ -2,6 +2,7 @@
 
 # General Assembly Capstone Credit Risk Modeling
 
+## Context and Problem Statement
 
 ### This capstone project aims to use credit modeling to predict a borrower's default risk, which is targeted towards lenders to provide visibility when deciding whether to extend a loan to the borrower or not. This 2007 financial lending csv data set is derived from https://www.lendingclub.com/
 To build a regression model to predict percentage of loan default. Model performance will be guided by true positive rate sensitivity, and the model should at least improve upon baseline by 0.5% or more. Baseline is defined as the performing loan over total loan in the year 2007.
@@ -22,7 +23,34 @@ Some of the consequences from defaulting on loans include:
 
 Therefore, it is important for lenders to decrease this risk as much as possible.
 Can we predict whether a borrower will default using loan and borrower statistics?
-In this capstone project at General Assembly, I used several classification models to answer this question. This list included Logistic Regression, Random Forest Classifier (??extra trees, adaptive boosting and gradient boosting??)
+In this capstone project at General Assembly, I used several classification models to answer this question. This list included  (??extra trees, adaptive boosting and gradient boosting??)
+
+## Executive Summary
+
+
+### Contents:
+
+- [Import libraries and load data](#Import-libraries-and-Data-acquisition)
+- [Data cleaning and Exploratory Data Analysis](#Data-cleaning-and-Exploratory-Data-Analysis)
+- [Modeling](#Modeling)
+- [Conclusions and Recommendations](#Conclusions-and-Recommendations)
+- [Sources](#Sources)
+
+---
+
+### Import libraries and Data
+
+After importing libraries, data was acquired.
+
+### Data Cleaning and Exploratory Data Analysis
+
+Data cleaning was performed with overview of summary statistics shown.
+
+### Modeling
+
+Logistic Regression and Random Forest Classifier were depolyed.
+
+### Conclusions and Recommendations
 
 ### Sources:
 
