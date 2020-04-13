@@ -39,7 +39,7 @@ In this capstone project at General Assembly, I used several classification mode
 
 ---
 
-### Import libraries and Data
+### Import Libraries and Data
 
 After importing libraries, data was acquired.
 
@@ -49,7 +49,7 @@ Data cleaning was performed with overview of summary statistics shown.
 
 ### Modeling
 
-Logistic Regression and Random Forest Classifier were depolyed.
+Logistic Regression, Cross Validation and Random Forest Classifier were depolyed.
 
 ### Conclusions and Recommendations
 
