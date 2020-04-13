@@ -1,10 +1,10 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) 
 
-# General Assembly Capstone Credit Risk Modeling
+# General Assembly Capstone Project: Credit Risk Modeling
 
 ## Context and Problem Statement
 
-### This capstone project aims to use credit modeling to predict a borrower's default risk, which is targeted towards lenders to provide visibility when deciding whether to extend a loan to the borrower or not. This 2007 financial lending csv data set is derived from https://www.lendingclub.com/
+### This project aims to use credit modeling to predict a borrower's default risk, which is targeted towards lenders to provide visibility when deciding whether to extend a loan to the borrower or not. This 2007 financial lending csv data set is derived from https://www.lendingclub.com/
 To build a regression model to predict percentage of loan default. Model performance will be guided by true positive rate sensitivity, and the model should at least improve upon baseline by 0.5% or more. Baseline is defined as the performing loan over total loan in the year 2007.
 
 Many Americans will need to borrow money at some point in their lives, whether to pay for school, a car or a home. Unfortunately, not everyone pays back their loans. Defaulting on a loan is detrimental to both borrowers and lenders. In efforts to curtail this activity, I developed a model that aimed to outperform the existing process LendingClub uses to approve loans.
