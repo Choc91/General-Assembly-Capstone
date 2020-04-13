@@ -4,8 +4,9 @@
 
 ## Context and Problem Statement
 
-### This project aims to use credit modeling to predict a borrower's default risk, which is targeted towards lenders to provide visibility when deciding whether to extend a loan to the borrower or not. This 2007 financial lending csv data set is derived from https://www.lendingclub.com/
-To build a regression model to predict percentage of loan default. Model performance will be guided by true positive rate sensitivity, and the model should at least improve upon baseline by 0.5% or more. Baseline is defined as the performing loan over total loan in the year 2007.
+### This project aims to use credit modeling to predict a borrower's default risk, which is targeted towards lenders to provide visibility when deciding whether to extend a loan to the borrower or not.
+
+To build a model to predict percentage of loan default. Model performance will be guided by true positive rate sensitivity, and the model should at least improve upon baseline by 0.5% or more. Baseline is defined as the performing loan over total loan in the year 2007. This file consisted a total of 42535 loans and the 2007 financial lending csv data set is derived from https://www.lendingclub.com/ 
 
 Many Americans will need to borrow money at some point in their lives, whether to pay for school, a car or a home. Unfortunately, not everyone pays back their loans. Defaulting on a loan is detrimental to both borrowers and lenders. In efforts to curtail this activity, I developed a model that aimed to outperform the existing process LendingClub uses to approve loans.
 
@@ -51,6 +52,8 @@ Data cleaning was performed with overview of summary statistics shown.
 Logistic Regression and Random Forest Classifier were depolyed.
 
 ### Conclusions and Recommendations
+
+?????????????????????????????????????????????????????
 
 ### Sources:
 
