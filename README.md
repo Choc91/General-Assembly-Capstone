@@ -23,7 +23,7 @@ Some of the consequences from defaulting on loans include:
 
 Therefore, it is important for lenders to decrease this risk as much as possible.
 Can we predict whether a borrower will default using loan and borrower statistics?
-In this capstone project at General Assembly, I used several classification models to answer this question. This list included  (??extra trees, adaptive boosting and gradient boosting??)
+In this capstone project at General Assembly, I used several classification models to answer this question.
 
 ## Executive Summary
 
