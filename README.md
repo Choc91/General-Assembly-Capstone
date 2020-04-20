@@ -31,8 +31,8 @@ In this capstone project at General Assembly, I used several classification mode
 
 ### Contents:
 
-- [Import libraries and load data](#Import-libraries-and-Data-acquisition)
-- [Data cleaning and Exploratory Data Analysis](#Data-cleaning-and-Exploratory-Data-Analysis)
+- [Import Libraries and Load data](#Import-Libraries-and-Load-Data)
+- [Data Cleaning and Exploratory Data Analysis](#Data-Cleaning-and-Exploratory-Data-Analysis)
 - [Modeling](#Modeling)
 - [Conclusions and Recommendations](#Conclusions-and-Recommendations)
 - [Sources](#Sources)
