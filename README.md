@@ -23,7 +23,7 @@ Some of the consequences from defaulting on loans include:
 5.Lenders will lose some or all of their investments
 
 Therefore, it is important for lenders to decrease this risk as much as possible.
-Can we predict if a borrower will default better than the baseline by using loan and borrower statistics?
+Can we predict if a borrower will default by using loan and borrower statistics?
 Logistic Regression, Cross Validation and Random Forest Classifier were depolyed to answer this question.
 
 ## Executive Summary
