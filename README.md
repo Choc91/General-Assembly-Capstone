@@ -53,7 +53,7 @@ Logistic Regression, Cross Validation and Random Forest Classifier were depolyed
 
 ### Conclusions and Recommendations
 
--Random Forest Classifier Sensitivity(0.86708) is the best among the models and managed to marginally outperform the baseline(0.86508), therefore this is our recommended model.
+-Random Forest Classifier Sensitivity of 0.86708 is the best among the models and managed to marginally outperform the baseline score of 0.86508, therefore this is our recommended model.
 
 -Improvements can be made to the model with a more recent and a larger data set as well as grid-searching hyper-parameters and introducing Recurrent Neural Networks.
 
