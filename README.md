@@ -13,9 +13,13 @@ Some of the consequences from defaulting on loans include:
 Many Americans will need to borrow money at some point in their lives, whether to pay for school, a car or a home. Unfortunately, not everyone pays back their loans. Defaulting on a loan is detrimental to both borrowers and lenders. In efforts to curtail this activity, I developed a model that aimed to outperform the existing process LendingClub uses to approve loans. Some of the consequences from defaulting on loans include:
 
 1.Severe damage to credit report
+
 2.Seizure of assets like home, car, or bank accounts
+
 3.Cancellation, revocation or non-renewal of professional licenses
+
 4.Withholding of state and federal tax refunds
+
 5.Lenders will lose some or all of their investments
 
 ## Executive Summary
