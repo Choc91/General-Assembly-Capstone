@@ -50,7 +50,7 @@ Logistic Regression, Cross Validation and Random Forest Classifier were depolyed
 
 -Improvements can be made to the model with a more recent and larger data set
 
--Introduce grid-searching hyper-parameters and Recurrent Neural Networks
+-Introduce grid-searching hyper-parameters and Recurrent Neural Networks to optimize performance
 
 ### Sources:
 
