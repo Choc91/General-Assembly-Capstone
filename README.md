@@ -4,8 +4,7 @@
 
 ## Context and Problem Statement
 
-### This project aims to use credit modeling to predict a borrower's default risk, which is targeted towards lenders to provide visibility when deciding whether to extend a loan to the borrower or not.
-This capstone project aims to use credit modeling to predict a borrower's default risk, which is targeted towards lenders to provide better visibility when deciding whether to extend a loan to the borrower or not.
+### This capstone project aims to use credit modeling to predict a borrower's default risk, which is targeted towards lenders to provide visibility when deciding whether to extend a loan to the borrower or not.
 
 Model performance will be guided by F1 score. This 2007 financial lending csv data set consisted a total of 42,535 loans. It is important for lenders to decrease credit default risk as much as possible. Can we predict if a borrower will default by using loan and borrower statistics? Logistic Regression, Cross Validation and Random Forest Classifier were depolyed to answer this issue.
 
