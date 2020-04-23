@@ -53,7 +53,7 @@ Logistic Regression, Cross Validation and Random Forest Classifier were depolyed
 
 ### Conclusions and Recommendations
 
--Random Forest Classifier Sensitivity of 0.86708 is the best among the models and managed to marginally outperform the baseline score of 0.86508, therefore this is our recommended model
+-LogisticRegression class weight balanced f1 score(0.99933) is the best among the models, therefore this is our recommended model
 
 -Improvements can be made to the model with a more recent and larger data set
 
