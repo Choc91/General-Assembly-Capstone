@@ -5,26 +5,19 @@
 ## Context and Problem Statement
 
 ### This project aims to use credit modeling to predict a borrower's default risk, which is targeted towards lenders to provide visibility when deciding whether to extend a loan to the borrower or not.
+This capstone project aims to use credit modeling to predict a borrower's default risk, which is targeted towards lenders to provide better visibility when deciding whether to extend a loan to the borrower or not.
 
-To build a model to predict percentage of loan default. Model performance will be guided by true positive rate sensitivity, and the model should improve upon baseline. Baseline is defined as the performing loan over total loan in the year 2007. This 2007 financial lending csv data set consisted a total of 42,535 loans and is derived from https://www.lendingclub.com/ 
-
-Many Americans will need to borrow money at some point in their lives, whether to pay for school, a car or a home. Unfortunately, not everyone pays back their loans. Defaulting on a loan is detrimental to both borrowers and lenders. In efforts to curtail this activity, I developed a model that aimed to outperform the existing process LendingClub uses to approve loans.
+Model performance will be guided by F1 score. This 2007 financial lending csv data set consisted a total of 42,535 loans. It is important for lenders to decrease credit default risk as much as possible. Can we predict if a borrower will default by using loan and borrower statistics? Logistic Regression, Cross Validation and Random Forest Classifier were depolyed to answer this issue.
 
 Some of the consequences from defaulting on loans include:
 
+Many Americans will need to borrow money at some point in their lives, whether to pay for school, a car or a home. Unfortunately, not everyone pays back their loans. Defaulting on a loan is detrimental to both borrowers and lenders. In efforts to curtail this activity, I developed a model that aimed to outperform the existing process LendingClub uses to approve loans.Some of the consequences from defaulting on loans include:
+
 1.Severe damage to credit report
-
 2.Seizure of assets like home, car, or bank accounts
-
 3.Cancellation, revocation or non-renewal of professional licenses
-
 4.Withholding of state and federal tax refunds
-
 5.Lenders will lose some or all of their investments
-
-Therefore, it is important for lenders to decrease this risk as much as possible.
-Can we predict if a borrower will default by using loan and borrower statistics?
-Logistic Regression, Cross Validation and Random Forest Classifier were depolyed to answer this question.
 
 ## Executive Summary
 
